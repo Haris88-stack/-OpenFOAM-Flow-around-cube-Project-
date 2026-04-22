@@ -24,4 +24,4 @@ Each case follows the standard OpenFOAM directory structure:
 - `geometry.geo` : Geometry defined using Gmsh
 - `geometry.msh` : Mesh generated using Gmsh
 
-Download the full project folder here: [Fluid-cases.zip](Fluid-cases.zip)
+Download the full project folder here: [Flow-around-cube.zip](Flow-around-cube.zip) [Flow-around-cylinder.zip](Flow-around-cylinder.zip)
