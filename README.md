@@ -1,5 +1,5 @@
 # -OpenFOAM-Fluid-cases-Project-
-This repository contains OpenFOAM simulations of fluid flow around simple benchmark geometries. The geometries and meshes were generated using Gmsh, and the simulations investigate flow behavior such as velocity distribution, pressure fields, and wake formation.
+This repository contains OpenFOAM simulations of fluid flow around simple geometries. The geometries and meshes were generated using Gmsh, and the simulations investigate flow behavior such as velocity distribution and pressure fields.
 
 The project includes all necessary case setup files, including mesh definitions, boundary and initial conditions, and solver configurations, allowing for straightforward reproduction and analysis of the results.
 
